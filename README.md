@@ -1,2 +1,2 @@
-# 1-hello-c
-2주차 C 실습
+# 14-Files-Callbacks
+14주차 C 실습
